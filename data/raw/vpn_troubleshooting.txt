@@ -1,0 +1,4 @@
+If VPN is not connecting:
+1. Check internet
+2. Restart VPN client
+3. Contact IT support
