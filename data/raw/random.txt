@@ -1,7 +1,7 @@
 ================================================================================
 STATUS REPORT: OPERATION EPIC FURY / 2026 IRAN WAR
 REPORT DATE: MARCH 31, 2026
-CLASSIFICATION: OPEN SUMMARY (OSINT)
+CLASSIFICATION: OPEN SUMMARY ( OSINT )
 WORD COUNT: ~1500
 ================================================================================
 
